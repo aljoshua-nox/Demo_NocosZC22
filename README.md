@@ -19,4 +19,4 @@ This is a Django practice project from Lecture 7: Getting Started with Django.
 7. Visit: http://127.0.0.1:8000/ 
  
 ## Author 
-Al Joshua Nocos 
+Al Joshua Nocos
