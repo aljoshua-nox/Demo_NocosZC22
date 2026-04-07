@@ -4,4 +4,4 @@ from django.template import loader
 # Create your views here.
 def members(request):
     template = loader.get_template('myfirst.html')
-    return HttpResponse("Hello Ka-Trends!")
+    return HttpResponse(template.render())
